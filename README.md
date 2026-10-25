@@ -34,11 +34,14 @@ Project Structure
 amazon-rds-mariadb-aws-
 
 ├──README.md
-├──Architecture.png
+├──
+Architecture.png
 ├──sql/
-│  └── employee_db.sql
+│  └── 
+employee_db.sql
 └──docs/
-   └── architecture.md
+   └── 
+architecture.md
 
 How to Use
 
