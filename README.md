@@ -1,13 +1,7 @@
 # amazon-rds-mariadb-aws-WS
 Deployed a MariaDB relational database using Amazon RDS, configured secure connectivity from Amazon EC2, and performed SQL CRUD operations within an AWS VPC.
 
-Amazon RDS on AWS – MariaDB Database Deployment
 
-"AWS" (https://img.shields.io/badge/AWS-Cloud%20Computing-orange?logo=amazonaws&logoColor=white)
-"Amazon RDS" (https://img.shields.io/badge/Amazon-RDS-blue)
-"MariaDB" (https://img.shields.io/badge/Database-MariaDB-003545?logo=mariadb&logoColor=white)
-"SQL" (https://img.shields.io/badge/Language-SQL-lightgrey)
-"Status" (https://img.shields.io/badge/Project-Learning%20Project-success)
 
 Project Overview
 
