@@ -44,12 +44,6 @@ MySQL Workbench| Optional graphical database client
 
 The project follows this connectivity model:
 
-EC2 Linux Client → Security Group Rules → Amazon RDS (MariaDB)
-
-The EC2 instance connects to the database using its RDS endpoint and the MariaDB default port, "3306".
-
-The RDS database should be configured with appropriate VPC and subnet settings. For a safer architecture, keep the database private and allow inbound database traffic only from the EC2 instance's security group.
-
 Architecture Components
 
 1. Amazon EC2: Provides a Linux environment for database administration.
