@@ -16,9 +16,11 @@ AWS Services & Technologies
 - Security Groups: Network access control
 - SQL: Database management and CRUD operations
 
-Architecture
 
-"AWS RDS MariaDB Architecture" (Architecture.png)
+## Project Architecture
+
+![AWS RDS MariaDB Architecture](Architecture.png)
+
 
 Features
 
@@ -29,7 +31,7 @@ Features
 
 Project Structure
 
-amazon-rds-mariadb-aws-WS/
+amazon-rds-mariadb-aws-/
 ├── README.md
 ├── Architecture.png
 ├── sql/
@@ -44,9 +46,6 @@ How to Use
 3. Connect using a MariaDB client.
 4. Execute the SQL script in "sql/employee_db.sql".
 
-Note: Replace example values with your own database details. Never upload passwords, credentials, or private keys to GitHub.
-
-Learning Outcomes
 
 Practical experience with AWS RDS, MariaDB, SQL CRUD operations, cloud networking, and database security.
 
