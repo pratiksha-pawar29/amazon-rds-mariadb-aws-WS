@@ -2,8 +2,7 @@
 Deployed a MariaDB relational database using Amazon RDS, configured secure connectivity from Amazon EC2, and performed SQL CRUD operations within an AWS VPC.
 
 
-
-##Project Overview
+Project Overview 
 
 This project demonstrates how to deploy and connect to a managed relational database using Amazon Relational Database Service (Amazon RDS) with MariaDB as the database engine.
 
