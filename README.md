@@ -31,13 +31,14 @@ Features
 
 Project Structure
 
-amazon-rds-mariadb-aws-/
-├── README.md
-├── Architecture.png
-├── sql/
-│   └── employee_db.sql
-└── docs/
-    └── architecture.md
+amazon-rds-mariadb-aws-
+
+├──README.md
+├──Architecture.png
+├──sql/
+│  └── employee_db.sql
+└──docs/
+   └── architecture.md
 
 How to Use
 
