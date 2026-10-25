@@ -38,8 +38,9 @@ Security Groups| Control network access to the database
 MySQL-compatible CLI| Connect to MariaDB and execute SQL
 MySQL Workbench| Optional graphical database client
 
-Architecture
-(Architecture.png)
+## Project Architecture
+
+![AWS RDS Architecture](Architecture.png)
 
 The project follows this connectivity model:
 
