@@ -3,7 +3,7 @@ Deployed a MariaDB relational database using Amazon RDS, configured secure conne
 
 
 
-Project Overview
+#Project Overview
 
 This project demonstrates how to deploy and connect to a managed relational database using Amazon Relational Database Service (Amazon RDS) with MariaDB as the database engine.
 
