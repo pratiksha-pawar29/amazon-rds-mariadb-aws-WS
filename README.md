@@ -39,6 +39,7 @@ MySQL-compatible CLI| Connect to MariaDB and execute SQL
 MySQL Workbench| Optional graphical database client
 
 Architecture
+(Architecture.png)
 
 The project follows this connectivity model:
 
